@@ -28,18 +28,8 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-15" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-12">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-23" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.412;exitY=1.064;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="300" as="sourcePoint" />
-            <mxPoint x="210" y="580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="206" y="440" />
-              <mxPoint x="210" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-24" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-23">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-26" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
