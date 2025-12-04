@@ -16,6 +16,15 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-7" value="+login()&lt;div&gt;+changePassword()&lt;/div&gt;&lt;div&gt;+updateProfile()&lt;/div&gt;&lt;div&gt;+getUserInfo()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-4">
           <mxGeometry y="178" width="160" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-18" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="VnKJP-TAF5ZtF-ycbkMM-4">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="80" y="250" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-19" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-18">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-12" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="160" height="86" as="geometry" />
         </mxCell>
@@ -27,15 +36,6 @@
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-15" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-12">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-18" value="name" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="490" y="300" as="sourcePoint" />
-            <mxPoint x="650" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-19" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-18">
-          <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
