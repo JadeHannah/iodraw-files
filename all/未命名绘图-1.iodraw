@@ -44,9 +44,6 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-31" value="+checkPermission()&lt;div&gt;+grantPermission()&lt;/div&gt;&lt;div&gt;+revokePermission()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-28">
           <mxGeometry y="138" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-36" target="VnKJP-TAF5ZtF-ycbkMM-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-36" value="UserPermission" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="700" width="160" height="190" as="geometry" />
         </mxCell>
@@ -57,18 +54,6 @@
           <mxGeometry y="130" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-39" value="+checkPermission()&lt;div&gt;+grantPermission()&lt;/div&gt;&lt;div&gt;+revokePermission()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-36">
-          <mxGeometry y="138" width="160" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-42" value="UserPermission" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="700" width="160" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-43" value="-&amp;nbsp;permissionId: String&lt;div&gt;-userId:String&lt;/div&gt;&lt;div&gt;-roleType:String&lt;/div&gt;&lt;div&gt;-moduleAcess:String[]&lt;/div&gt;&lt;div&gt;-operationRights:&lt;/div&gt;&lt;div&gt;Map&amp;lt;String,boolean&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-42">
-          <mxGeometry y="26" width="160" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-44" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-42">
-          <mxGeometry y="130" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-45" value="+checkPermission()&lt;div&gt;+grantPermission()&lt;/div&gt;&lt;div&gt;+revokePermission()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-42">
           <mxGeometry y="138" width="160" height="52" as="geometry" />
         </mxCell>
       </root>
