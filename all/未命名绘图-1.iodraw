@@ -32,8 +32,13 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-28" target="VnKJP-TAF5ZtF-ycbkMM-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-63" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VnKJP-TAF5ZtF-ycbkMM-40">
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-63" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VnKJP-TAF5ZtF-ycbkMM-40">
           <mxGeometry x="-0.6533" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-64" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VnKJP-TAF5ZtF-ycbkMM-40">
+          <mxGeometry x="0.3133" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -87,9 +92,6 @@
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-61" value="+displayUsers()&lt;div&gt;+addUser()&lt;/div&gt;&lt;div&gt;+editUser()&lt;/div&gt;&lt;div&gt;+deleteUser()&lt;/div&gt;&lt;div&gt;+searchUser()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-58">
           <mxGeometry y="98" width="160" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-29" target="VnKJP-TAF5ZtF-ycbkMM-58">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
