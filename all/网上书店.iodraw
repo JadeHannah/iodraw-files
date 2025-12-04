@@ -81,10 +81,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q1EBIFM3zW18yvU1HOGD-20" value="-cartId: String&#xa;-customerId: String&#xa;-createTime: Date&#xa;-updateTime:Date&#xa;-items: List&lt;CartItem&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-19">
-          <mxGeometry y="26" width="160" height="94" as="geometry" />
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
         </mxCell>
         <mxCell id="q1EBIFM3zW18yvU1HOGD-21" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-19">
-          <mxGeometry y="120" width="160" height="8" as="geometry" />
+          <mxGeometry y="140" width="160" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
