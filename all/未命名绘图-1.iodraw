@@ -57,7 +57,7 @@
           <mxGeometry y="68" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-48" value="PermissionDAO" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="700" width="160" height="120" as="geometry" />
+          <mxGeometry x="380" y="700" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-49" value="-connection:Connection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
           <mxGeometry y="26" width="160" height="34" as="geometry" />
@@ -65,8 +65,8 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
           <mxGeometry y="60" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-51" value="+insertPermission()&lt;div&gt;+updatePermission()&lt;/div&gt;&lt;div&gt;+delePermission()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
-          <mxGeometry y="68" width="160" height="52" as="geometry" />
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-51" value="+insertPermission()&lt;div&gt;+updatePermission()&lt;/div&gt;&lt;div&gt;+delePermission()&lt;/div&gt;&lt;div&gt;+selectPermission()&lt;/div&gt;&lt;div&gt;+selectPermissions()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
+          <mxGeometry y="68" width="160" height="82" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-28" target="VnKJP-TAF5ZtF-ycbkMM-48">
           <mxGeometry relative="1" as="geometry" />
