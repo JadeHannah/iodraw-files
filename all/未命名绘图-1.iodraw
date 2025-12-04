@@ -68,6 +68,9 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-51" value="+showPasswordForm()&lt;div&gt;+validateInput()&lt;/div&gt;&lt;div&gt;+updatePassword()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
           <mxGeometry y="68" width="160" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-28" target="VnKJP-TAF5ZtF-ycbkMM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
