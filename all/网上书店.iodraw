@@ -179,7 +179,7 @@
         <mxCell id="q1EBIFM3zW18yvU1HOGD-54" value="BookImage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="980" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="q1EBIFM3zW18yvU1HOGD-55" value="&lt;div&gt;-inventoryId: String&lt;/div&gt;&lt;div&gt;-bookId: String&lt;/div&gt;&lt;div&gt;-quantity:int&lt;/div&gt;&lt;div&gt;-location: String&lt;/div&gt;&lt;div&gt;-status:int&lt;/div&gt;&lt;div&gt;(0-在库,1-出库,2-调拨)&lt;/div&gt;&lt;div&gt;- lastUpdate: Date&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-54">
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-55" value="&lt;div&gt;-imageId: String&lt;/div&gt;&lt;div&gt;- bookId: String&lt;/div&gt;&lt;div&gt;-imageUrl: String&lt;/div&gt;&lt;div&gt;-isMain: boolean&lt;/div&gt;&lt;div&gt;-orderNo:int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-54">
           <mxGeometry y="26" width="140" height="124" as="geometry" />
         </mxCell>
       </root>
