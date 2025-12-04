@@ -56,7 +56,7 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-39" value="+showPasswordForm()&lt;div&gt;+validateInput()&lt;/div&gt;&lt;div&gt;+updatePassword()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-36">
           <mxGeometry y="68" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-48" value="ChangePasswordUI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-48" value="PermissionDAO" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-49" value="-currentUser:User" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-48">
