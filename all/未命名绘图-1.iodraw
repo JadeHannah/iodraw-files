@@ -41,11 +41,6 @@
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-24" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-23">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-25" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-23">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
