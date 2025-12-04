@@ -126,6 +126,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q1EBIFM3zW18yvU1HOGD-31" target="q1EBIFM3zW18yvU1HOGD-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q1EBIFM3zW18yvU1HOGD-31" value="Order" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="422" width="160" height="222" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
@@ -135,6 +138,17 @@
           <mxGeometry y="26" width="160" height="174" as="geometry" />
         </mxCell>
         <mxCell id="q1EBIFM3zW18yvU1HOGD-33" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-31">
+          <mxGeometry y="200" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-37" value="Order" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="724" width="160" height="222" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-38" value="-orderId: String&#xa;-customerId: String&#xa;-orderDate: Date&#xa;-totalAmount: double&#xa;-status: int&#xa;(0-待付款,1-已付款，&#xa;2-已发货,3-已完成，&#xa;4-已取消,5-退款中)&#xa;-paymentMethod:String&#xa;-shippingAddress: String&#xa;-receiver: String&#xa;-receiverPhone: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-37">
+          <mxGeometry y="26" width="160" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-39" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-37">
           <mxGeometry y="200" width="160" height="8" as="geometry" />
         </mxCell>
       </root>
