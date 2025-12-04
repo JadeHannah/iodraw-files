@@ -170,6 +170,12 @@
         <mxCell id="q1EBIFM3zW18yvU1HOGD-46" value="&lt;div&gt;-paymentId: String&lt;/div&gt;&lt;div&gt;-orderId: String&lt;/div&gt;&lt;div&gt;-amount: double&lt;/div&gt;&lt;div&gt;-paymentDate:Date&lt;/div&gt;&lt;div&gt;-paymentType: String&lt;/div&gt;&lt;div&gt;(alipay/wechat/bank)&lt;/div&gt;&lt;div&gt;-transactionNo:String&lt;/div&gt;&lt;div&gt;status: int&lt;/div&gt;&lt;div&gt;(θ-成功,1-失败,2-处理中)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-44">
           <mxGeometry y="26" width="140" height="164" as="geometry" />
         </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-50" value="Inventory&amp;nbsp;&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="980" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-51" value="&lt;div&gt;-paymentId: String&lt;/div&gt;&lt;div&gt;-orderId: String&lt;/div&gt;&lt;div&gt;-amount: double&lt;/div&gt;&lt;div&gt;-paymentDate:Date&lt;/div&gt;&lt;div&gt;-paymentType: String&lt;/div&gt;&lt;div&gt;(alipay/wechat/bank)&lt;/div&gt;&lt;div&gt;-transactionNo:String&lt;/div&gt;&lt;div&gt;status: int&lt;/div&gt;&lt;div&gt;(θ-成功,1-失败,2-处理中)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-50">
+          <mxGeometry y="26" width="140" height="164" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
