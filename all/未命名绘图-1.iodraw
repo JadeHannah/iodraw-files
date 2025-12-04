@@ -94,7 +94,7 @@
           <mxGeometry y="98" width="160" height="82" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-65" value="PermissionMgtUI&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="530" width="160" height="140" as="geometry" />
+          <mxGeometry x="-50" y="460" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-66" value="- permissionList:&lt;div&gt;List&amp;lt;UserPermission&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-65">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
@@ -104,6 +104,9 @@
         </mxCell>
         <mxCell id="VnKJP-TAF5ZtF-ycbkMM-68" value="+display()&lt;div&gt;+modifyPermission()&lt;/div&gt;&lt;div&gt;+assignRole()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="VnKJP-TAF5ZtF-ycbkMM-65">
           <mxGeometry y="78" width="160" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="VnKJP-TAF5ZtF-ycbkMM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VnKJP-TAF5ZtF-ycbkMM-68" target="VnKJP-TAF5ZtF-ycbkMM-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
