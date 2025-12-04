@@ -236,6 +236,9 @@
         <mxCell id="q1EBIFM3zW18yvU1HOGD-87" value="&lt;div&gt;+insert()&lt;/div&gt;&lt;div&gt;+ update()&lt;/div&gt;&lt;div&gt;+ delete()&lt;/div&gt;&lt;div&gt;+ selectById()&lt;/div&gt;&lt;div&gt;+ selectByEmail()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-84">
           <mxGeometry y="34" width="160" height="96" as="geometry" />
         </mxCell>
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-89" value="业务管理类" style="html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="971" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
