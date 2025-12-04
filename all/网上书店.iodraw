@@ -121,7 +121,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q1EBIFM3zW18yvU1HOGD-32" value="-customerId:String&#xa;-username:String&#xa;-password:String&#xa;-realName:String&#xa;-email:String&#xa;-phone:String&#xa;-address:String&#xa;-registerDate:Date&#xa;-status:int&#xa;(0-正常，1-冻结)&#xa;--balance:double" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-31">
+        <mxCell id="q1EBIFM3zW18yvU1HOGD-32" value="orderId: String&#xa;customerId: String&#xa;orderDate: Date&#xa;totalAmount: double&#xa;status: int&#xa;(0-待付款,1-已付款，&#xa;2-已发货,3-已完成，&#xa;4-已取消,5-退款中)&#xa;paymentMethod:String&#xa;shippingAddress: String&#xa;receiver: String&#xa;receiverPhone: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-31">
           <mxGeometry y="26" width="160" height="174" as="geometry" />
         </mxCell>
         <mxCell id="q1EBIFM3zW18yvU1HOGD-33" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="q1EBIFM3zW18yvU1HOGD-31">
