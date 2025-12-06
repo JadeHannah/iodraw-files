@@ -453,6 +453,109 @@
         <mxCell id="-viTRuCnIRar0_WaV_RS-102" value="3120230905323&lt;div&gt;陆雨涵&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="3230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-103" value="订单处理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="167" y="5610" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-104" value="查询订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="191" y="5709" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-105" value="订单状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="197" y="5807" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-106" value="确认订单信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="5993" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-107" value="更新订单状态为已处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="6091" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-108" value="通知配送系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="6190" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-109" value="配送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="84" y="6289" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-110" value="配送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="68" y="6387" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-111" value="更新订单状态为已完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="6486" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-112" value="订单处理结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="6585" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-113" value="跳过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="5993" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-103" target="-viTRuCnIRar0_WaV_RS-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-104" target="-viTRuCnIRar0_WaV_RS-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-116" value="待处理" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-105" target="-viTRuCnIRar0_WaV_RS-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="5956" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-106" target="-viTRuCnIRar0_WaV_RS-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-107" target="-viTRuCnIRar0_WaV_RS-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-108" target="-viTRuCnIRar0_WaV_RS-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-109" target="-viTRuCnIRar0_WaV_RS-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-110" target="-viTRuCnIRar0_WaV_RS-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.22;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-111" target="-viTRuCnIRar0_WaV_RS-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="6560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-123" value="已处理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.28;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-105" target="-viTRuCnIRar0_WaV_RS-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="5956" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.78;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-113" target="-viTRuCnIRar0_WaV_RS-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="6560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-125" value="已完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-105" target="-viTRuCnIRar0_WaV_RS-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="5956" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
