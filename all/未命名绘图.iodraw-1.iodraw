@@ -255,6 +255,201 @@
         <mxCell id="-viTRuCnIRar0_WaV_RS-60" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;陆雨涵&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;3120230905323&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="1740" width="143" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-61" value="客户进入网站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2620" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-62" value="是否登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="362" y="2719" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-63" value="浏览图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="356" y="3003" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-64" value="注册/登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="367" y="2904" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-65" value="是否查询图书" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="129" y="3101" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-66" value="输入查询条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3319" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-67" value="显示查询结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3417" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-68" value="显示全部图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="3417" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-69" value="选择图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="139" y="3539" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-70" value="是否加入购物车" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="121" y="3637" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-71" value="加入购物车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="3871" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-72" value="继续浏览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="3871" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-73" value="是否继续购物" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="235" y="3969" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-74" value="结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="261" y="4187" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-75" value="填写收货信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="4285" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-76" value="支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="261" y="4384" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-77" value="支付成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="4483" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-78" value="生成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="4581" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-79" value="订单完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="245" y="4680" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-61" target="-viTRuCnIRar0_WaV_RS-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-81" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.12;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-62" target="-viTRuCnIRar0_WaV_RS-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="2868" />
+              <mxPoint x="322" y="2978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-82" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-62" target="-viTRuCnIRar0_WaV_RS-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="2868" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.56;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-64" target="-viTRuCnIRar0_WaV_RS-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="2978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-63" target="-viTRuCnIRar0_WaV_RS-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="3076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-85" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-65" target="-viTRuCnIRar0_WaV_RS-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="3282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-66" target="-viTRuCnIRar0_WaV_RS-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-87" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-65" target="-viTRuCnIRar0_WaV_RS-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="3282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-67" target="-viTRuCnIRar0_WaV_RS-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="3502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-68" target="-viTRuCnIRar0_WaV_RS-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="3502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-69" target="-viTRuCnIRar0_WaV_RS-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-91" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-70" target="-viTRuCnIRar0_WaV_RS-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="3834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-92" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.31;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-70" target="-viTRuCnIRar0_WaV_RS-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="327" y="3834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=-0.01;entryX=0.5;entryY=0.99;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-72" target="-viTRuCnIRar0_WaV_RS-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="3834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-71" target="-viTRuCnIRar0_WaV_RS-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="3944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-95" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.22;entryX=0.75;entryY=0.99;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-73" target="-viTRuCnIRar0_WaV_RS-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="482" y="3944" />
+              <mxPoint x="482" y="3076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-96" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-73" target="-viTRuCnIRar0_WaV_RS-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-74" target="-viTRuCnIRar0_WaV_RS-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-75" target="-viTRuCnIRar0_WaV_RS-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-76" target="-viTRuCnIRar0_WaV_RS-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-77" target="-viTRuCnIRar0_WaV_RS-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-78" target="-viTRuCnIRar0_WaV_RS-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
