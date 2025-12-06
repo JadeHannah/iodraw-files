@@ -141,6 +141,43 @@
         <mxCell id="-viTRuCnIRar0_WaV_RS-38" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户订购图书时序图&lt;/font&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;陆雨涵&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;3120230905323&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1410" width="180" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-39" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1590" width="150" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-40" value="图书管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="263" y="1590" width="150" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-41" value="图书信息数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="463" y="1590" width="150" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-42" value="添加/修改/删除图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-39" target="-viTRuCnIRar0_WaV_RS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="1697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-43" value="发送操作请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-40" target="-viTRuCnIRar0_WaV_RS-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="1749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-44" value="返回操作结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-41" target="-viTRuCnIRar0_WaV_RS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-45" value="显示操作结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-40" target="-viTRuCnIRar0_WaV_RS-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="228" y="1853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
