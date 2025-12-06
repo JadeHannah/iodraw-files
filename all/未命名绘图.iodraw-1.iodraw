@@ -4,43 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-viTRuCnIRar0_WaV_RS-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="150" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-2" value="浏览器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="220" y="20" width="150" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-3" value="图书信息数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="420" y="20" width="150" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-4" value="输入查询条件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-1" target="-viTRuCnIRar0_WaV_RS-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="204" y="129" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-5" value="发送查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-2" target="-viTRuCnIRar0_WaV_RS-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="404" y="185" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-6" value="返回查询结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-3" target="-viTRuCnIRar0_WaV_RS-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="407" y="239" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-7" value="显示图书信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-2" target="-viTRuCnIRar0_WaV_RS-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="207" y="293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
