@@ -41,15 +41,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-16" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="398" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-17" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="398" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-viTRuCnIRar0_WaV_RS-18" value="图书信息数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="398" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-viTRuCnIRar0_WaV_RS-19" value="查询与浏览图书信息的时序图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="110" width="120" height="60" as="geometry" />
         </mxCell>
