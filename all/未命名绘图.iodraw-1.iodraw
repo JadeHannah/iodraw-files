@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ZxxWJwAzSsZ0VfIUS-vb">
-    <mxGraphModel dx="761" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,74 @@
         </mxCell>
         <mxCell id="-viTRuCnIRar0_WaV_RS-46" value="&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot;&gt;陆雨涵&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;font-size:10.5000pt;&amp;lt;br/&amp;gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;3120230905323&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647" y="1730" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-47" value="订单处理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2000" width="150" height="582" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-48" value="订单处理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2000" width="150" height="582" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-49" value="订单数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2000" width="150" height="582" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-50" value="配送系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2000" width="150" height="582" as="geometry" />
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-51" value="查询订单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-47" target="-viTRuCnIRar0_WaV_RS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="2107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-52" value="发送查询请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-48" target="-viTRuCnIRar0_WaV_RS-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="2163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-53" value="返回订单信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-49" target="-viTRuCnIRar0_WaV_RS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="2217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-54" value="更新订单状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-48" target="-viTRuCnIRar0_WaV_RS-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="2269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-55" value="返回更新结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-49" target="-viTRuCnIRar0_WaV_RS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="2321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-56" value="发送配送请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-48" target="-viTRuCnIRar0_WaV_RS-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="504" y="2373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-57" value="返回配送结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-50" target="-viTRuCnIRar0_WaV_RS-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="507" y="2425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-viTRuCnIRar0_WaV_RS-58" value="显示订单处理结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="-viTRuCnIRar0_WaV_RS-48" target="-viTRuCnIRar0_WaV_RS-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="2477" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
